@@ -19,6 +19,7 @@ git clone https://github.com/prachyabiswas/agentic-ai-crash-course.git
 cd agentic-ai-crash-course
 uv sync                          # or: python -m venv .venv && pip install -e .
 cp .env.example .env             # then fill in your API keys
+python scripts/check_setup.py    # confirms packages + keys are wired up correctly
 jupyter notebook
 ```
 
