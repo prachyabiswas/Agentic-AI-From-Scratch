@@ -34,4 +34,4 @@ a (very sophisticated) pattern-completion system trained entirely on data — wo
 both when you're impressed by it and when you're frustrated by it.
 
 Next: [docs/05_api_key_setup.md](05_api_key_setup.md) to actually start calling one of these
-models, or jump to [docs/06_rag_theory.md](06_rag_theory.md) for the RAG theory chapter.
+models, or jump to [docs/08_rag_theory.md](08_rag_theory.md) for the RAG theory chapter.

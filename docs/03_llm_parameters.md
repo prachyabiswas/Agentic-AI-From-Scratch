@@ -54,7 +54,7 @@ model you're using):
 Practical implication: if you're feeding a model a huge document (a 3,000-page policy PDF, for
 example), you cannot just paste the whole thing in, even with a huge context window — it would
 be too many tokens and too expensive per call. That's exactly the problem **RAG** solves — see
-[docs/06_rag_theory.md](06_rag_theory.md).
+[docs/08_rag_theory.md](08_rag_theory.md).
 
 Next: [docs/04_llm_analogy_explained.md](04_llm_analogy_explained.md) for a simpler mental
 model of what an LLM actually is.

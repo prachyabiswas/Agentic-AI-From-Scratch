@@ -46,5 +46,5 @@ load_dotenv()
 which reads `.env` and sets the keys as environment variables for that process — that's all
 the LangChain model classes need to authenticate.
 
-Next: [docs/06_rag_theory.md](06_rag_theory.md), or jump straight into the first hands-on
+Next: [docs/08_rag_theory.md](08_rag_theory.md), or jump straight into the first hands-on
 notebook at [code/01_simple_llm_calling](../code/01_simple_llm_calling).

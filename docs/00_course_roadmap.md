@@ -14,7 +14,7 @@ the start of RAG retrieval.
 | 6 | LLM Analogy Based Explanation (13:28) | ✅ Done | [docs/04_llm_analogy_explained.md](04_llm_analogy_explained.md) |
 | 7 | API Key Setup (18:41) | ✅ Done | [docs/05_api_key_setup.md](05_api_key_setup.md) |
 | 8 | Simple LLM call using LangChain (21:01) | ✅ Done | [code/01_simple_llm_calling](../code/01_simple_llm_calling) |
-| 9 | RAG Theory (41:50) | ✅ Done | [docs/06_rag_theory.md](06_rag_theory.md) |
+| 9 | RAG Theory (41:50) | ✅ Done | [docs/08_rag_theory.md](08_rag_theory.md) |
 | 10 | Vector DB — Hands On (47:52) | ✅ Done | [code/03_vector_db](../code/03_vector_db) |
 | 11 | RAG — Hands On (53:50) | 🟡 In progress | [code/04_rag_basics](../code/04_rag_basics) |
 | 12 | AI Agent Intro (1:02:54) | ⬜ Not yet | |
