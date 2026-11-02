@@ -1,6 +1,6 @@
 # 01 — Simple LLM Calling
 
-The "hello world" of this course: verify your API keys work and make your first programmatic
+The "hello world" of this repo: verify your API keys work and make your first programmatic
 call to an LLM through LangChain.
 
 ## What's in here

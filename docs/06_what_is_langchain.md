@@ -1,6 +1,6 @@
 # What is LangChain?
 
-LangChain is the main framework used throughout this course for calling LLMs and building both
+LangChain is the main framework used throughout this repo for calling LLMs and building both
 agentic and non-agentic AI applications. It's genuinely common to see it listed as a required
 skill in GenAI engineer job postings, so it's worth learning properly rather than treating it
 as just another library.
@@ -14,13 +14,12 @@ as just another library.
 - **LangSmith** — observability, evaluation, and deployment tooling: trace every LLM call,
   inspect prompts/responses, debug chains in production.
 
-A helpful comparison from the course that stuck with me: LangChain is like shooting photos in
-a DSLR's **auto mode** — a few lines of code and you get a working agent. LangGraph is more
-like full **manual mode** — more setup, but precise, low-level control over exactly how the
-agent reasons and moves between steps. Different tools for different levels of control, not a
-strict "better vs worse."
+A comparison that stuck with me: LangChain is like shooting photos in a DSLR's **auto mode** —
+a few lines of code and you get a working agent. LangGraph is more like full **manual mode** —
+more setup, but precise, low-level control over exactly how the agent reasons and moves between
+steps. Different tools for different levels of control, not a strict "better vs worse."
 
-For this course, we're mostly working with plain LangChain, since the goal is to get the core
+For now I'm mostly working with plain LangChain in this repo, since the goal is to get the core
 concepts solid before reaching for the extra control LangGraph offers.
 
 Next: [code/01_simple_llm_calling](../code/01_simple_llm_calling) — the first real LangChain

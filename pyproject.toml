@@ -1,7 +1,7 @@
 [project]
-name = "agentic-ai-crash-course-notes"
+name = "agentic-ai-from-scratch"
 version = "0.1.0"
-description = "My notes and practice code while following the Codebasics Agentic AI Crash Course (LangChain)"
+description = "My own hands-on build-up of Generative AI, RAG, and agentic AI concepts using LangChain"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

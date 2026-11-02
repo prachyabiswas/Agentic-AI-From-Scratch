@@ -15,10 +15,7 @@ st.set_page_config(page_title="Blood Work Analyzer", layout="wide")
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
 
 st.title("Blood Work Analyzer")
-st.caption(
-    "Practice project following the Codebasics Agentic AI Crash Course. "
-    "Not medical advice — for learning purposes only."
-)
+st.caption("Not medical advice — for learning purposes only.")
 
 left_col, right_col = st.columns([1, 1])
 

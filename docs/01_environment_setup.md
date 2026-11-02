@@ -1,12 +1,12 @@
 # Environment Setup
 
-Steps I used to set up a clean Python environment for this course.
+Steps I used to set up a clean Python environment for this repo.
 
 ## Prerequisites
 
-- Python 3.11+ (the course uses 3.14; anything reasonably recent works for these examples)
+- Python 3.11+
 - A code editor — I used VS Code
-- Basic Python knowledge — that's genuinely the only prerequisite for this course
+- Basic Python knowledge — that's genuinely the only prerequisite
 
 ## 1. Install `uv`
 
@@ -16,8 +16,8 @@ Install instructions for your OS: https://docs.astral.sh/uv/getting-started/inst
 ## 2. Clone this repo and sync dependencies
 
 ```bash
-git clone https://github.com/prachyabiswas/agentic-ai-crash-course.git
-cd agentic-ai-crash-course
+git clone https://github.com/prachyabiswas/Agentic-AI-From-Scratch.git
+cd Agentic-AI-From-Scratch
 uv sync
 ```
 

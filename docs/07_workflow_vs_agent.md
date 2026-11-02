@@ -1,7 +1,6 @@
 # Workflow vs. Agent
 
-Worth pinning down early, because the course treats this as a real distinction, not just
-terminology.
+Worth pinning down early — this is a real distinction, not just terminology.
 
 ## Workflow
 
@@ -20,9 +19,9 @@ what to do next — which tool to call, with what arguments, whether it has enou
 answer yet, or whether it needs to take another action first. The control flow isn't
 hand-written by you; it emerges from the model reasoning about the current state.
 
-This repo doesn't have agent code yet — that's the next big chunk of the course (AI Agent
-Intro, the ReAct loop, and the hands-on agent chapters), which I haven't gotten to on video
-yet. I'll fill in `code/05_single_agent` and the rest of `docs/` as I work through it.
+This repo doesn't have agent code yet — that's the next big chunk of this project (agent
+fundamentals, the ReAct loop, and a hands-on single-agent build), which I haven't gotten to
+yet. I'll fill in `code/05_single_agent` and the rest of `docs/` as I build it out.
 
 ## Why this distinction matters in practice
 
