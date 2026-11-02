@@ -18,10 +18,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
----
-
-NOTE: This license covers my own notes, write-ups, and the way I've organized
-and practiced the exercises in this repository. The underlying course
-curriculum and original example code are from the "Agentic AI Crash Course
-using LangChain" by Codebasics — see NOTICE.md for details and attribution.
