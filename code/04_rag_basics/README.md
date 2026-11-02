@@ -1,8 +1,7 @@
 # 04 — RAG Basics (end to end)
 
-🟡 **In progress** — I've built a first working pass through this, but I'm still partway
-through the "RAG — Hands On" chapter in the video, so this will get refined. See
-[`docs/00_course_roadmap.md`](../../docs/00_course_roadmap.md) for current status.
+🟡 **In progress** — this is a first working pass, still being refined. See
+[`docs/00_roadmap.md`](../../docs/00_roadmap.md) for current status.
 
 ## What's in here
 
@@ -34,4 +33,4 @@ jupyter notebook rag_demo.ipynb
 - An interactive question loop
 - A similarity-score threshold so it says "I don't know" on weak matches instead of guessing
 
-Next: once I'm through the AI Agent chapters in the video, `code/05_single_agent` onward.
+Next: `code/05_single_agent` onward, once the agent fundamentals are built out.

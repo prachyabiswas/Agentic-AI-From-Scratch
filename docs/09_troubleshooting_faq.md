@@ -35,6 +35,5 @@ Launch `jupyter notebook` from inside the specific module folder (e.g.
 `code/01_simple_llm_calling/`), not from the repo root — otherwise you'll have to click through
 folders to find it, which is fine too, just slower.
 
-Didn't find your issue here? Open an issue on this repo, or re-check the original video — the
-timestamps in [docs/00_course_roadmap.md](00_course_roadmap.md) link straight to the right
-chapter.
+Didn't find your issue here? Open an issue on this repo, or check
+[docs/00_roadmap.md](00_roadmap.md) for where a given topic's notes and code live.
